@@ -1,0 +1,14 @@
+C:\Users\DIVYA\Desktop\dot net\dd\bin\Debug\netcoreapp3.1\dd.exe
+C:\Users\DIVYA\Desktop\dot net\dd\bin\Debug\netcoreapp3.1\dd.deps.json
+C:\Users\DIVYA\Desktop\dot net\dd\bin\Debug\netcoreapp3.1\dd.runtimeconfig.json
+C:\Users\DIVYA\Desktop\dot net\dd\bin\Debug\netcoreapp3.1\dd.runtimeconfig.dev.json
+C:\Users\DIVYA\Desktop\dot net\dd\bin\Debug\netcoreapp3.1\dd.dll
+C:\Users\DIVYA\Desktop\dot net\dd\bin\Debug\netcoreapp3.1\dd.pdb
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.csproj.AssemblyReference.cache
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.AssemblyInfoInputs.cache
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.AssemblyInfo.cs
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.csproj.CoreCompileInputs.cache
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.dll
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.pdb
+C:\Users\DIVYA\Desktop\dot net\dd\obj\Debug\netcoreapp3.1\dd.genruntimeconfig.cache
