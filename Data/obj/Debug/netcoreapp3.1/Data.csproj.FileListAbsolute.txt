@@ -1,0 +1,14 @@
+C:\Users\DIVYA\Desktop\dot net\Data\bin\Debug\netcoreapp3.1\Data.exe
+C:\Users\DIVYA\Desktop\dot net\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\DIVYA\Desktop\dot net\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\DIVYA\Desktop\dot net\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\DIVYA\Desktop\dot net\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\DIVYA\Desktop\dot net\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\DIVYA\Desktop\dot net\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

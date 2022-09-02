@@ -1,0 +1,14 @@
+C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.exe
+C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.deps.json
+C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.runtimeconfig.json
+C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.runtimeconfig.dev.json
+C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.dll
+C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.pdb
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.csproj.AssemblyReference.cache
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.AssemblyInfoInputs.cache
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.AssemblyInfo.cs
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.csproj.CoreCompileInputs.cache
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.dll
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.pdb
+C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.genruntimeconfig.cache
