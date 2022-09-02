@@ -4,7 +4,6 @@ C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.runtimeconfig
 C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.runtimeconfig.dev.json
 C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.dll
 C:\Users\DIVYA\Desktop\dot net\Divya\bin\Debug\netcoreapp3.1\Divya.pdb
-C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.csproj.AssemblyReference.cache
 C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.AssemblyInfoInputs.cache
 C:\Users\DIVYA\Desktop\dot net\Divya\obj\Debug\netcoreapp3.1\Divya.AssemblyInfo.cs
